@@ -1,0 +1,6 @@
+<!ELEMENT student ANY>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT class (#PCDATA)>
+<!ELEMENT hobbies (#PCDATA)>
+<!ELEMENT fees (#PCDATA)>
